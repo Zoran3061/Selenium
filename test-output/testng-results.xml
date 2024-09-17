@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-17T09:07:14 CEST" name="Default suite" finished-at="2024-09-17T09:08:01 CEST" duration-ms="46658">
+    <groups>
+    </groups>
+    <test started-at="2024-09-17T09:07:14 CEST" name="Default test" finished-at="2024-09-17T09:08:01 CEST" duration-ms="46658">
+      <class name="ZadatakTestNG.TransferTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ZadatakTestNG.TransferTest@7ed7259e]" started-at="2024-09-17T09:07:14 CEST" name="setUp" finished-at="2024-09-17T09:07:18 CEST" duration-ms="4216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginAndTransfer()[pri:0, instance:ZadatakTestNG.TransferTest@7ed7259e]" started-at="2024-09-17T09:07:18 CEST" name="testLoginAndTransfer" finished-at="2024-09-17T09:08:01 CEST" duration-ms="42235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginAndTransfer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:ZadatakTestNG.TransferTest@7ed7259e]" started-at="2024-09-17T09:08:01 CEST" name="tearDown" finished-at="2024-09-17T09:08:01 CEST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- ZadatakTestNG.TransferTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
